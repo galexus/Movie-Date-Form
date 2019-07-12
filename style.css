@@ -1,0 +1,29 @@
+body {
+    margin: 10mm;
+    padding: 1mm;
+    background-color: #f1e07c
+    }
+     
+    body {
+        text-align: justify;
+        background-color: #f1e07c
+        background-position: ;        
+        font-style: oblique;
+        color: #6b1905;
+    }
+    
+    article{ text-align: left;
+        color: #1b2a53;
+    
+    }
+    
+    header {
+        text-align: center;
+        color: #304e6b;
+    
+    }  
+    header{
+        text-decoration-style: solid;
+        padding: 1mm;
+        margin: 10mm;
+    }
